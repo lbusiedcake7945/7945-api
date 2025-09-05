@@ -9,6 +9,6 @@
 </style>
 <body>
 <div>
-  [webTekno chatGPT promptu](</webtekno-GPTprompt.md>)
+  <a href="/webtekno-GPTprompt.md"><button>webTekno chatGPT prompt</button></a>
 </div>
 </body>
