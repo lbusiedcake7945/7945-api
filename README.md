@@ -2,8 +2,8 @@
   <head>
 <style>
   div {
-    .border: white;
-    .background-color: grey;
+    border: white;
+    background-color: grey;
   }
   body {
     background-color: black;
