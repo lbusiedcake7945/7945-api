@@ -316,3 +316,4 @@
 
 }
 ```
+kod bana ait değildir kod tamamen web teknonundur
