@@ -12,7 +12,7 @@
   </head>
 <body>
 <div>
-  <a href="/webtekno-GPTprompt.md"><button>webTekno chatGPT prompt</button></a>
+  <a href="/webtekno-GPTprompt"><button>webTekno chatGPT prompt</button></a>
 </div>
 </body>
 </html>
