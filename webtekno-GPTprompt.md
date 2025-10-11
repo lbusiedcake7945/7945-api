@@ -1,3 +1,13 @@
+<style>
+  div {
+    border: white;
+    background-color: grey;
+  }
+  body {
+    background-color: black;
+  }
+</style>
+
 ```javascript
 {
 
